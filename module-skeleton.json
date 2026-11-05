@@ -1,0 +1,15 @@
+{
+  "repository": "module-music-audio-engine-dart-desktop",
+  "capabilityKey": "liberusoftware/music-audio-engine",
+  "presentation": "dart-desktop",
+  "package": "module_music_audio_engine_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/music/nextjs/audio-engine.md",
+  "presentationPlan": "projects/music/features/audio-engine.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "music"
+  ]
+}
